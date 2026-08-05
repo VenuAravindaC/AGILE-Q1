@@ -3,6 +3,8 @@ def is_even(n):
 
 def square(n):
     return n*n
+def cube(n):
+    return n*n*n
 
 
 if __name__ == "__main__":
